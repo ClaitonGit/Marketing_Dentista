@@ -11,3 +11,7 @@ Esse aplicativo Flutter é baseado em uma maquete Figma de um local de marketing
 - [Flutter]
 - [Dart]
 - [Android Studio]
+
+  ## 🖼️: Algumas telas
+
+  
